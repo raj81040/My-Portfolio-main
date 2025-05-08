@@ -1,0 +1,66 @@
+[
+  {
+    "title": "AI Image Generator using Hugging Face API",
+    "imageSrc": "projects/project.png",
+    "description": "Created a web-based AI image generator using HTML, CSS, and JavaScript, integrated with the Hugging Face API to generate realistic images based on user-provided text prompts. This project demonstrates frontend design skills and API integration to build an engaging and responsive user interface for real-time image generation.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://raj-tiwari-ai-image-generate.netlify.app/"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "I've developed a dynamic portfolio using React.js, showcasing my experience and skills through interactive components and structured JSON data. This approach ensures a modern, responsive design with easily updatable content.",
+    "skills": ["Reactjs", "Vite", "HTML", "CSS", "JSON"],
+    "source": "https://github.com/raj81040/"
+  },
+  {
+    "title": "AI Background Remover",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a responsive web application using HTML, CSS, and JavaScript that removes the background from images using an AI-powered API. Users can upload any image, and the application instantly processes and returns a transparent background image. This project highlights real-time API integration and interactive frontend features.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "http://raj-tiwari-bgremover.netlify.app"
+  },
+  {
+    "title": "Classic Snake Game",
+    "imageSrc": "projects/project.png",
+    "description": "Built a browser-based Snake Game using HTML, CSS, and JavaScript. The game features smooth movement, score tracking, and collision detection with walls and the snake's own body. This project showcases interactive game logic, DOM manipulation, and event handling in JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://snake-game.wuaze.com/?i=1"
+  },
+  {
+    "title": "Full-Stack CRUD Application",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a full-stack web application with a React frontend and Spring Boot backend to perform Create, Read, Update, and Delete (CRUD) operations. The UI includes clean, form-based inputs for managing user data, while the backend exposes RESTful APIs and uses a relational database for persistent storage. This project demonstrates integration between frontend and backend with proper API handling.",
+    "skills": ["React", "Spring Boot"],
+    "source": "https://github.com/raj81040/"
+  },
+  {
+    "title": "Hospital Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and developed a desktop-based Hospital Management System using Java Swing for the user interface and SQL for database operations. The application allows hospital staff to manage patient records, appointments, doctor information, and billing. Implemented complete CRUD functionality with a focus on user-friendly navigation and data integrity.",
+    "skills": [
+      "Java",
+      "Swing",
+      "SQL",
+      "JDBC",
+      "CRUD Operations",
+      "Desktop Application"
+    ],
+    "source": "https://github.com/raj81040/HospitalManagment"
+  },
+  {
+    "title": "Online Voting System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an online voting system using PHP, HTML, CSS, and MySQL that allows users to register, log in, and cast votes securely. The system includes role-based access for voters and admins, vote count tracking, and user authentication to ensure one-person-one-vote functionality. Designed a simple, clean interface with session management and backend validation.",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Authentication",
+      "CRUD Operations"
+    ],
+    "source": "https://rajtiwariproject.rf.gd"
+  }
+]

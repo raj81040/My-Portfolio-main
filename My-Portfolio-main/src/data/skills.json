@@ -1,0 +1,126 @@
+[
+  {
+    "programminglanguages": [
+      {
+        "title": "JAVA",
+        "imagesrc": "skills/java.png"
+      },
+      {
+        "title": "TypeScript",
+        "imagesrc": "skills/typescript.jpg"
+      },
+      {
+        "title": "Javascript",
+        "imagesrc": "skills/javascript.png"
+      },
+      {
+        "title": "SQL",
+        "imagesrc": "skills/sql.png"
+      },
+      {
+        "title": "PHP",
+        "imagesrc": "skills/php.png"
+      },
+      {
+        "title": "HTML",
+        "imagesrc": "skills/html.png"
+      },
+      {
+        "title": "CSS",
+        "imagesrc": "skills/css.png"
+      }
+    ]
+  },
+  {
+    "FrameworksAndTools": [
+      {
+        "title": "Spring Boot",
+        "imagesrc": "skills/springboot.png"
+      },
+      {
+        "title": "XML",
+        "imagesrc": "skills/xml.png"
+      },
+      {
+        "title": "JSON",
+        "imagesrc": "skills/json.png"
+      },
+      {
+        "title": "Hibernate",
+        "imagesrc": "skills/hibernate.png"
+      },
+      {
+        "title": "JPA",
+        "imagesrc": "skills/node.png"
+      },
+      {
+        "title": "Spring JDBC",
+        "imagesrc": "skills/jdbc.png"
+      },
+      {
+        "title": "Spring Security",
+        "imagesrc": "skills/spring.png"
+      },
+      {
+        "title": "Java Swing",
+        "imagesrc": "skills/java swing.png"
+      },
+      {
+        "title": "React js",
+        "imagesrc": "skills/react.png"
+      },
+      {
+        "title": "Node Js",
+        "imagesrc": "skills/node.png"
+      },
+      {
+        "title": "Express Js",
+        "imagesrc": "skills/expressjs.webp"
+      },
+      {
+        "title": "MongoDB",
+        "imagesrc": "skills/mongodb.png"
+      },
+      {
+        "title": "OracleApex",
+        "imagesrc": "skills/apex.png"
+      },
+      {
+        "title": "Sql",
+        "imagesrc": "skills/sql.webp"
+      }
+    ]
+  },
+  {
+    "DevelopmentTools": [
+      {
+        "title": "GitHub",
+        "imagesrc": "skills/github.png"
+      },
+      {
+        "title": "VSCode",
+        "imagesrc": "skills/vscode.png"
+      },
+      {
+        "title": "Intellije",
+        "imagesrc": "skills/intellijeicon.png"
+      },
+      {
+        "title": "Postman",
+        "imagesrc": "skills/postman.png"
+      },
+      {
+        "title": "Eclipse",
+        "imagesrc": "skills/eclipseicon.png"
+      }
+    ]
+  },
+  {
+    "CloudPlatforms": [
+      {
+        "title": "AWS",
+        "imagesrc": "skills/aws.png"
+      }
+    ]
+  }
+]

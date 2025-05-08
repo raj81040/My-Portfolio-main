@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Developer Intern",
+    "organisation": "SDAC",
+    "startDate": "August, 2024",
+    "endDate": "October, 2024",
+    "experiences": [
+      "Worked on a **CRM-based Class Management System**, contributing to both backend and front-end development.",
+      "Developed and maintained backend functionality using **Spring Boot Java** and **JDBC** for database connectivity.",
+      "Implemented **CRUD operations** for managing student and class data within the CRM system.",
+      "Worked with **MySQL databases**, creating and optimizing queries for data retrieval and storage.",
+      "Assisted in the creation of **APIs** using **Spring Boot** for efficient data handling and integration.",
+      "Performed **backend debugging** and resolved issues related to database queries and API responses.",
+      "Worked on **front-end debugging** with **JavaScript** and **SAP Fiori**, improving user experience.",
+      "Created and updated **technical documentation** for the CRM project, ensuring clear guidelines for future development."
+    ],
+    "imageSrc": "history/sdac.jpeg"
+  }
+]
